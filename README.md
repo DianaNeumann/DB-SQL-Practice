@@ -5,6 +5,7 @@
 ### Материалы:
 - Методичка ([тык](https://github.com/DianaNeumann/ITMO-DB-Practice/blob/main/resources/db-manual-itmo.pdf))
 - Легендарный тренажер GalaXQL ([тык](https://solhsa.com/g3/))
+- PortSwigger SQL injection guide  + Labs ([тык](https://portswigger.net/web-security/sql-injection))
 ---
 
 ### Окружние:
