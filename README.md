@@ -1,5 +1,10 @@
-## Решения заданий из курса по БД
-- [Методичка](https://github.com/DianaNeumann/ITMO-DB-Practice/blob/main/resources/db-manual-itmo.pdf)
+## Пишем запросики
+
+---
+
+### Материалы:
+- Методичка ([тык](https://github.com/DianaNeumann/ITMO-DB-Practice/blob/main/resources/db-manual-itmo.pdf))
+- Легендарный тренажер GalaXQL ([тык](https://solhsa.com/g3/))
 ---
 
 ### Окружние:
@@ -8,4 +13,3 @@
 - База AdventureWorks ([скачать](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms))
 
 ---
-
