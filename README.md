@@ -1,5 +1,5 @@
 ## Решения заданий из курса по БД
-- [методичка](https://github.com/DianaNeumann/ITMO-DB-Practice/blob/main/resources/db-manual-itmo.pdf)
+- [Методичка](https://github.com/DianaNeumann/ITMO-DB-Practice/blob/main/resources/db-manual-itmo.pdf)
 ---
 
 ### Окружние:
