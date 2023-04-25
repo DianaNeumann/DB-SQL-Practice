@@ -20,4 +20,6 @@
 - [первая лаба](https://github.com/DianaNeumann/DB-SQL-Practice/blob/main/labs/Lab-1.sql)
 
 - [вторая лаба](https://github.com/DianaNeumann/DB-SQL-Practice/blob/main/labs/Lab-2.sql)
+
+- [четвертая лаба](https://github.com/DianaNeumann/DB-SQL-Practice/blob/main/labs/lab4.sql)
 ---
